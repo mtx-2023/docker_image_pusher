@@ -4,3 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist
 --platform=linux/amd64 nyanmisaka/jellyfin
+--platform=linux/amd64 cloudnas/clouddrive2-unstable 
