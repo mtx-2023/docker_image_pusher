@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/amd64 nyanmisaka/jellyfin
 --platform=linux/amd64 cloudnas/clouddrive2
 --platform=linux/amd64 talebook/talebook
+--platform=linux/arm/v8 b3log/siyuan
