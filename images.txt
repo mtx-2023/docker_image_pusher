@@ -1,9 +1,4 @@
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 #支持指定架构
---platform=linux/amd64 xiaoyaliu/alist
---platform=linux/amd64 nyanmisaka/jellyfin
---platform=linux/amd64 cloudnas/clouddrive2
---platform=linux/amd64 talebook/talebook
---platform=linux/arm/v8 b3log/siyuan
+
+--platform=linux/arm/v8 b3log/siyuan:v3.1.14
