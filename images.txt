@@ -5,6 +5,5 @@
 #--platform=linux/arm/v7 jonnyan404/verysync:latest
 #--platform=linux/arm64 jonnyan404/verysync:latest
 #
---platform=linux/amd64 herberthe0229/iptv-sources:latest
-
+--platform=linux/amd64 guovern/iptv-api:lite
 
