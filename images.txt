@@ -4,7 +4,7 @@
 #--platform=linux/arm/v8 b3log/siyuan:v3.1.14
 #--platform=linux/arm/v7 jonnyan404/verysync:latest
 #--platform=linux/arm64 jonnyan404/verysync:latest
-#--platform=linux/arm64 b3log/siyuan:v3.1.14
---platform=linux/arm64 b3log/siyuan:v2.9.6
+#
+--platform=linux/amd64 herberthe0229/iptv-sources:latest
 
 
