@@ -5,7 +5,7 @@
 #--platform=linux/arm/v7 jonnyan404/verysync:latest
 #--platform=linux/arm64 jonnyan404/verysync:latest
 #--platform=linux/amd64 guovern/iptv-api:lite
---platform=linux/amd64 b3log/siyuan:vv3.1.26
+--platform=linux/amd64 b3log/siyuan:v3.1.26
 
 
 
