@@ -5,6 +5,6 @@
 #--platform=linux/arm/v7 jonnyan404/verysync:latest
 #--platform=linux/arm64 jonnyan404/verysync:latest
 #--platform=linux/amd64 guovern/iptv-api:lite
---platform=linux/arm64 linuxserver/chromium:arm64v8-3d6ab67d-ls1
+--platform=linux/arm64 linuxserver/chromium:3d6ab67d-ls1
 
 
